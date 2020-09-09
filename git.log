@@ -1,0 +1,41 @@
+commit 219a2fdf436db85392f607dc7761dbf4fdb69ec8
+Author: darrugueta <timberfirst@att.net>
+Date:   Wed Sep 9 17:09:19 2020 -0400
+
+    added .mpeg
+
+commit 15aee76893a4f964b0203b3115913e4327b2245d
+Author: darrugueta <timberfirst@att.net>
+Date:   Wed Sep 9 16:31:27 2020 -0400
+
+    added gitignore
+
+commit 07b1e07757db8713ae632be2a091416f0a084cb6
+Author: darrugueta <timberfirst@att.net>
+Date:   Wed Sep 9 16:28:50 2020 -0400
+
+    file2 changes
+
+commit 380807fa93095f2323a079e46cf4de32f530db0c
+Author: darrugueta <timberfirst@att.net>
+Date:   Wed Sep 9 16:21:44 2020 -0400
+
+    added file2 again
+
+commit c3a08ae3651c9c4cdab49120d7c5ead78c5686e6
+Author: darrugueta <timberfirst@att.net>
+Date:   Wed Sep 9 16:13:27 2020 -0400
+
+    rm file3 and add file2
+
+commit d7ee35211fc302216070b11087d86ba50fcb2694
+Author: darrugueta <timberfirst@att.net>
+Date:   Wed Sep 9 16:10:34 2020 -0400
+
+    add file3.txt
+
+commit db869969d5a3ad83b71d25b92b64c74572bd503f
+Author: darrugueta <timberfirst@att.net>
+Date:   Wed Sep 9 16:06:42 2020 -0400
+
+    added first file
