@@ -1,0 +1,2 @@
+this is a test file for merges
+this is a second line for test
