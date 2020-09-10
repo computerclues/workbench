@@ -1,2 +1,6 @@
+<<<<<<< HEAD
 this is another line into test from the branch
 line added to test
+=======
+another line to test for merges
+>>>>>>> change-problems
