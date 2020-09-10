@@ -1,3 +1,3 @@
 Git Exercices
 I added this line in the update-exercise branch.
-It's sunny outside today!
+It's windy outside today!
