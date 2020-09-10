@@ -1,4 +1,0 @@
-This is the exercise phase of the section.
-this is a second line
-this is a third line added in 2nd branch
-this is a fourth da-da-da
