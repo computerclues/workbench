@@ -18,3 +18,4 @@
 - Chicken on Mondays
 - Beer every day
 
+![Brian Griffin](http://images.shoutwiki.com/familyguy/thumb/1/12/Brian_Griffin.png/375px-Brian_Griffin.png)
